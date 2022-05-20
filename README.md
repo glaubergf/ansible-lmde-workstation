@@ -6,7 +6,7 @@ Autor: Glauber GF (@mcnd2)
 Atualização: 2022-05-18
 ---
 
-![Image](https://github.com/glaubergf/ansible-debian-workstation/blob/main/pictures/What-is-LMDE.jpg)
+![Image](https://github.com/glaubergf/ansible-lmde-workstation)
 
 # Configurando o LMDE com Ansible
 
